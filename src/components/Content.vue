@@ -62,6 +62,8 @@ export default {
       }
     },
     updateContent: function(menu_item) {
+
+      // Update css main-content for different types of data.
       switch (menu_item) {
         case "home":
           this.content = "Home";
