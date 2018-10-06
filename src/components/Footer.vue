@@ -27,3 +27,13 @@ footer{
 }
 
 </style>
+
+{
+    "name":"player_name"
+    "weapons":{
+        "knife":1
+        "gun":2
+        "teddy_bear":1
+    }
+    "magical_power":["invisibility"]
+}
